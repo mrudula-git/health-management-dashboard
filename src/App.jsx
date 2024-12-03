@@ -11,7 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { useContext, useEffect } from "react";
 import {Context} from "./main";
 import axios from "axios";
-import "./app.css"
+import "./App.css"
 
 function App() {
 
